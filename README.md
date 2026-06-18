@@ -16,22 +16,21 @@ Generate meaningful insights through data visualization.
 
 Technologies Used
 
-Python
-Pandas
-NumPy
-PySpark
-Scikit-learn
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+PySpark,
+Scikit-learn,
+Matplotlib,
+Seaborn,
+Jupyter Notebook.
 
 
 Expected Outcomes
-Better understanding of airline pricing strategies.
-Identification of factors contributing to flight delays.
-Accurate prediction of flight ticket prices.
-Improved travel planning and decision-making support.
-Insights valuable for airlines, travel agencies, and passengers.
+
+This project helps analyze airline pricing trends and identify the key factors that influence ticket costs, such as airline, route, travel class, duration, and booking time. It also examines patterns related to flight delays and uses machine learning techniques to predict ticket prices and potential delays. The insights generated from this analysis support better travel planning, informed decision-making, and improved operational efficiency for airlines, travel agencies, and passengers.
+
+
 
 Author
 Roshiga Jelin
