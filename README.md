@@ -7,12 +7,7 @@ In addition to fare analysis, machine learning techniques are applied to build p
 
 Objectives
 
-Analyze flight booking data from multiple airlines.
-Identify key factors affecting flight ticket prices.
-Study travel patterns across major Indian cities.
-Predict flight ticket prices using machine learning.
-Detect and predict possible flight delays.
-Generate meaningful insights through data visualization.
+The project analyzes flight booking data from multiple airlines to understand pricing trends and travel patterns across major Indian cities. It aims to identify the key factors that influence flight ticket prices, such as airline type, route, travel duration, number of stops, departure time, and booking period. Using machine learning techniques, the system predicts flight ticket prices and detects potential flight delays based on historical data. Additionally, it generates meaningful insights through data visualization and exploratory data analysis, helping airlines, travel agencies, and passengers make informed decisions.
 
 Technologies Used
 
@@ -29,7 +24,6 @@ Jupyter Notebook.
 Expected Outcomes
 
 This project helps analyze airline pricing trends and identify the key factors that influence ticket costs, such as airline, route, travel class, duration, and booking time. It also examines patterns related to flight delays and uses machine learning techniques to predict ticket prices and potential delays. The insights generated from this analysis support better travel planning, informed decision-making, and improved operational efficiency for airlines, travel agencies, and passengers.
-
 
 
 Author
